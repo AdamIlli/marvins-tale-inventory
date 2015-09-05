@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<map>
+  <Name>square</Name>
+  <Background>resources/background/square.jpg</Background><grounds>
+    	<ground id="1">
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		<nodes><node id="1">
+    			<x>0</x>
+    			<y>492</y>
+    		</node><node id="2">
+    			<x>150</x>
+    			<y>444</y>
+    		</node><node id="3">
+    			<x>298</x>
+    			<y>212</y>
+    		</node><node id="4">
+    			<x>336</x>
+    			<y>212</y>
+    		</node><node id="5">
+    			<x>335</x>
+    			<y>130</y>
+    		</node><node id="6">
+    			<x>357</x>
+    			<y>131</y>
+    		</node><node id="7">
+    			<x>408</x>
+    			<y>156</y>
+    		</node><node id="8">
+    			<x>461</x>
+    			<y>210</y>
+    		</node><node id="9">
+    			<x>492</x>
+    			<y>209</y>
+    		</node><node id="10">
+    			<x>564</x>
+    			<y>360</y>
+    		</node><node id="11">
+    			<x>688</x>
+    			<y>426</y>
+    		</node><node id="12">
+    			<x>800</x>
+    			<y>396</y>
+    		</node><node id="13">
+    			<x>800</x>
+    			<y>600</y>
+    		</node><node id="14">
+    			<x>0</x>
+    			<y>600</y></node></nodes></ground>
+    </grounds>
+
+  <portals><portal id="1">
+    
+    
+    
+    
+    <key>item01</key>
+    <Destination>biscuits_corner</Destination>
+    
+    <nodes><node id="1">
+    	
+    	<x>333</x><y>132</y>
+    	
+    	</node>
+    	
+    	<node id="2">
+    	<x>349</x>
+    	<y>37</y>
+</node>
+
+
+    	
+  <node id="3">
+    	<x>355</x>
+    	<y>106</y>
+    	</node><node id="4">
+    	<x>356</x>
+    	<y>130</y>
+    	</node>
+	
+</nodes></portal>
+
+
+
+
+
+
+
+</portals>
+</map>

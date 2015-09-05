@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<map>
+  <Name>Biscuits_Corner</Name>
+  <Background>resources/background/biscuit-corner.png</Background>
+
+  <portals><portal id="1">
+    <node1>
+        <x>152</x></node1>
+        	<y>201</y>
+    <node2>
+    	<x>229</x>
+    	<y>201</y></node2>
+    <node3>
+    	<x>127</x>
+    	<y>376</y></node3>
+    <node4>
+    	<x>210</x>
+    	<y>359</y></node4>
+    <key>item01</key>
+    <Destination>Biscuits_House</Destination>
+    </portal></portals>
+</map>

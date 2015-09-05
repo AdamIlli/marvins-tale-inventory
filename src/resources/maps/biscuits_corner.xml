@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<map>
+  <Name>Biscuits_Corner</Name>
+  <Background>resources/background/biscuit-corner.png</Background><grounds>
+    	<ground id="1">
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		
+    		<nodes><node id="1">
+    			<x>0</x>
+    			<y>464</y>
+    		</node><node id="2">
+    			<x>128</x>
+    			<y>423</y>
+    		</node><node id="3">
+    			<x>152</x>
+    			<y>450</y>
+    		</node><node id="4">
+    			<x>234</x>
+    			<y>427</y>
+    		</node><node id="5">
+    			<x>225</x>
+    			<y>390</y>
+    		</node><node id="6">
+    			<x>346</x>
+    			<y>356</y>
+    		</node><node id="7">
+    			<x>366</x>
+    			<y>359</y>
+    		</node><node id="8">
+    			<x>563</x>
+    			<y>290</y>
+    		</node><node id="9">
+    			<x>722</x>
+    			<y>344</y>
+    		</node><node id="10">
+    			<x>715</x>
+    			<y>504</y>
+    		</node><node id="11">
+    			<x>800</x>
+    			<y>528</y>
+    		</node><node id="12">
+    			<x>800</x>
+    			<y>600</y>
+    		</node><node id="13">
+    			<x>0</x>
+    			<y>600</y>
+    		</node></nodes></ground>
+    </grounds>
+
+  <portals><portal id="1">
+    
+    
+    
+    
+    <key>item01</key>
+    <Destination>Biscuits_House</Destination>
+    
+    <nodes><node id="1">
+    	
+    	<x>152</x><y>229</y>
+    	
+    	</node>
+    	
+    	<node id="2">
+    	<x>192</x>
+    	<y>205</y>
+</node>
+
+<node id="3">
+    	<x>210</x>
+    	<y>207</y>
+    	</node>
+    	
+  <node id="4">
+    	<x>233</x>
+    	<y>236</y>
+    	</node>
+    	
+    	<node id="5">
+    	<x>219</x>
+    	<y>368</y>
+    	</node>
+    	
+    	<node id="6">
+	<x>133</x>
+	<y>388</y>
+	</node>
+	
+</nodes></portal>
+
+
+
+
+
+<portal id="2">
+    
+    
+    
+    
+    <key>item01</key>
+    <Destination>Square</Destination>
+    
+    <nodes><node id="1">
+    	
+    	<y>289</y>
+    	<x>560</x>
+    	</node>
+    	
+    	<node id="2">
+    	<x>574</x>
+    	<y>171</y>
+</node>
+
+<node id="3">
+    	<x>604</x>
+    	<y>124</y>
+    	</node>
+    	
+  <node id="4">
+    	<x>671</x>
+    	<y>153</y>
+    	</node>
+    	
+    	<node id="5">
+    	<x>712</x>
+    	<y>204</y>
+    	</node>
+    	
+    	<node id="6">
+	<x>724</x>
+	<y>274</y>
+	</node>
+	    	
+    	<node id="7">
+	<x>721</x>
+	<y>343</y>
+	</node>
+	
+</nodes></portal>
+
+
+
+
+
+
+
+</portals>
+</map>
